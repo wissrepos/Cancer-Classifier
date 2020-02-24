@@ -1,1 +1,2 @@
 
+The best result we achieved for this project is when we used the K-nearest neighbor algorithm and at the value k = 4 , the accuracy of this model is the highest comparet to other algorithms f1_score = 0.985
